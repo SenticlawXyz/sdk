@@ -1,0 +1,6 @@
+{
+  "agent_name": "SenticAgent",
+  "autonomous_mode": true,
+  "interval_ms": 10000,
+  "ai_provider": "mock"
+}
