@@ -5,7 +5,7 @@ Senticlaw turns your **Seeker phone** into an **autonomous AI agent** — empowe
 🌐 Website: https://senticlaw.xyz/  
 🐦 X (Twitter): https://x.com/SenticlawXyz  
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 6fS9LevfTHw6KuETk2rWTrqbmwaJc9KVWEEA5m2Bpump
 ---
 
 ## 🚀 Overview
